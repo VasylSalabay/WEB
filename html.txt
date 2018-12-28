@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My site</title>
+    <meta charset="utf-8" />
+</head>
+<link rel="shortcut icon" type="image/x-icon" href="images/imageses.png">
+<link rel="stylesheet" href="style.css" media="all">
+<body>
+    <div class="header">
+        <div class="mid">
+            <header>
+                <div class="topmenu">
+                    <aside>
+                        <a href="#">головна</a>
+                        <a href="http://www.eminem.com/">офіційний сайт</a>
+                        <a href="https://www.youtube.com/user/EminemVEVO">канал</a>
+                        <a href="https://vk.com/turboguy">контакти</a>
+                    </aside>
+                </div>
+                <img src="images/v2FoeyE.png" alt="логотип сайту" title="логотип сайту">
+                <div class="afisha">
+                    <img src="images/418456.660xp.jpg" alt="обложка" title="обложка">
+                    <h3>
+                        Нова книга Джоан Роулінг <br>Гаррі Поттер та прокляте дитя<br> встигніть придбати у нас
+                    </h3>
+                    <p><a href="http://www.yakaboo.ua/ua/garri-potter-i-prokljate-ditja.html#.WEh-NLKLSpo" target="_blank">Тисніть сюди</a></p>
+                    <div class="clear"></div>
+                </div>
+            </header>
+        </div>
+    </div>
+    <div class="menu">
+        <div class="mid">
+            <nav>
+                <ul>
+                    <li><a href="http://obr123456.blogspot.com/">мій блог</a></li>
+                    <li><a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B7%D0%B0%D0%BC">сторінка у вікіпедії</a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100005814931387">зв'язатись через фейсбук</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="content">
+        <div class="mid">
+            <div class="fon">
+                <div class="block">
+                    <a href="https://ru.wikipedia.org/wiki/Recovery">
+                        <div class="anons">
+                            <section>
+                                <img src="images/pic_3ce6083ef311123ed131d4a92565e03c.jpg" alt="живий звук" />
+                                <h3>Світовий тур "Recovery"</h3>
+                                <p>Наймасштабніший тур виконавця за всю його кар'єру, тур проведений 2011 року</p>
+                            </section>
+                        </div>
+                    </a>
+                    </div>
+                    <div class="block">
+                        <a href="http://kibergrad.fm/9079/eminem/infinite">
+                            <div class="anons">
+                                <section>
+                                    <img src="images/em1.jpg" alt="альбом" />
+                                    <h3>Альбом "Infinite"</h3>
+                                    <p>Найперший студійний альбом виконавця 1996 року, на лейблі Web Entertainment</p>
+                                </section>
+                            </div>
+                        </a>
+                    </div>
+                <div class="clear"></div>
+                <div class="rek">
+                    <a href="http://www.eminem.pro/sites/the-monster-tour/the-monster-tour.php" target="_blank">
+                        <img src="images/MONSTERTOUR-NEWSITEM_0.png" alt="рекламний баннер" />
+                    </a>
+                </div>
+                <div class="clear"></div>
+                <div class="block">
+                    <a href="http://genius.com/albums/Eminem/The-slim-shady-lp">
+                        <div class="anons">
+                            <section>
+                                <img src="images/109459cb7f84e2f8be957dbc334f7542.jpg" alt="живий звук" />
+                                <h3>slim shady LP</h3>
+                                <p>другий студійний альбом американського репера Емінема, випущений в 1999 році на лейблі Dr. Dre</p>
+                            </section>
+                        </div>
+                    </a>
+                </div>
+                <div class="block">
+                    <a href="https://music.yandex.ua/album/1969">
+                        <div class="anons">
+                            <section>
+                                <img src="images/344.jpg" alt="альбом" />
+                                <h3>Альбом "Encore"</h3>
+                                <p>п'ятий студійний альбом американського репера Емінема і 2-й його сольний альбом</p>
+                            </section>
+                        </div>
+                    </a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="mid"></div>
+    </div>
+
+
+
+
+</body>
+</html>

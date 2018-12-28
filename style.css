@@ -1,0 +1,49 @@
+﻿body {
+    background: #efefef
+    url(images/old_map_@2X.png);
+    margin: 0;
+    padding: 0;
+    font: 16px/24px Arial, Tahoma, sans-serif;color: #272727;
+}
+a{text-decoration:none;}
+
+
+/*структура сайту*/
+div.mid{width:1000px; margin: 0 auto; }
+div.header{ background:#101417;}
+
+/*шапка сайта*/
+div.topmenu{float:right; height: 63px;line-height:70px;} 
+div.topmenu a{margin: 0 0 0 10px;color: #1683a3;}
+div.topmenu a:hover{color: #fff;}
+div.afisha{padding: 20px 50px 0 50px; background: #f2f2f2 ;}
+div.afisha img{float: left;}
+div.afisha h3{font-size: 24px; font-weight: normal; text-align:center; color:#830000;}
+div.afisha p{text-align:center;}
+div.afisha a{font-size: 20px; color: #fff; font-weight: bold;
+background: #000000; border: 1px solid #862900; padding: 5px 15px;
+border-radius: 3px;box-shadow: 2px 2px 7px -1px #777;}
+
+/*меню головне*/
+div.menu{background: #1683a3; border: 1px solid#016c8b; border-left: none; border-right: none;}
+div.menu ul{margin: 0; padding: 0; list-style: none;text-align: center;}
+div.menu ul li {display: inline-block; margin: 5px 30px;}
+div.menu ul li a{color: #fff; text-transform: uppercase;text-shadow: 1px 1px 3px #0b4455}
+div.menu ul li a:hover{color: #a3e1f3;}
+
+/*контент сайту*/
+div.fon{background: #fff; border: 1px solid #ccc; border-top: none; padding: 40px;}
+div.fon div.clear {border-bottom: 1px dashed #ccc;}
+div.block {width: 440px;float: left; margin-bottom:140px; }
+div.block:nth-of-type(even) {float: right; }
+div.block a p{color: #272727;}
+div.anons {background: #f5f5f5; border: 1px solid #ccc; border-radius:3px; padding: 20px;}
+div.anons img {box-shadow: 1px 1px 5 px #777;}
+
+div.anons  h3 {font-size: 20px; font-weight:normal; margin: 20px 0 10px; padding: 0; color: #01617d;
+line-height: 20px;}
+div.anons  p {text-shadow: 1px 1px 0 #fff;}
+div.rec {margin: 40 px 0;}
+
+
+div.clear{clear: both;}
